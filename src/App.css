@@ -1,7 +1,7 @@
 .App {
   text-align: center;
 }
-.backgrd{
+.background{
   /* background-color: rgb(192, 209, 240); */
   background-image: linear-gradient(rgb(194, 233, 245) , rgb(247, 211, 205),rgb(212, 225, 249),rgb(210, 198, 247) );
 }
